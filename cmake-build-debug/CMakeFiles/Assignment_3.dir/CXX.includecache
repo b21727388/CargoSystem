@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C++ Programlar/Assignment 3/Dests.h
+Stack.h
+D:/C++ Programlar/Assignment 3/Stack.h
+Queue.h
+D:/C++ Programlar/Assignment 3/Queue.h
+Trucks.h
+D:/C++ Programlar/Assignment 3/Trucks.h
+bits/stdc++.h
+-
+
+D:/C++ Programlar/Assignment 3/Main.cpp
+iostream
+-
+ReadFile.h
+D:/C++ Programlar/Assignment 3/ReadFile.h
+
+D:/C++ Programlar/Assignment 3/Packages.h
+string
+-
+iostream
+-
+
+D:/C++ Programlar/Assignment 3/Queue.h
+iostream
+-
+string
+-
+
+D:/C++ Programlar/Assignment 3/ReadFile.h
+string
+-
+fstream
+-
+sstream
+-
+Dests.h
+D:/C++ Programlar/Assignment 3/Dests.h
+
+D:/C++ Programlar/Assignment 3/Stack.h
+string
+-
+iostream
+-
+
+D:/C++ Programlar/Assignment 3/Trucks.h
+Packages.h
+D:/C++ Programlar/Assignment 3/Packages.h
+
